@@ -15,6 +15,7 @@ nav:
   - Work: work.md
   - Hobbies: hobbies.md
   - Projects: projects.md
+  - Dogs: dogs.md
 
 # Configuration
 theme:
