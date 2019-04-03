@@ -1,3 +1,43 @@
-site_name: My Docs
+# Project information
+site_name: Jesus Punlay
+site_description: 'A site for me to use as a profile'
+site_author: 'Jesus Punlay'
+site_url: 'https://jpunlay.github.io/jesuspunlay/'
+
+# Repository
+repo_name: 'jpunlay/jesuspunlay'
+repo_url: 'https://github.com/jpunlay/jesuspunlay'
+
+# Navigation
+nav:
+  - Home: index.md
+  - Education: education.md
+  - Work: work.md
+  - Hobbies: hobbies.md
+  - Projects: projects.md
+
+# Configuration
 theme:
   name: 'material'
+  palette:
+    primary: 'blue grey'
+    accent: 'amber'
+  # favicon: 'assets/images/favicon.ico'
+  logo:
+    icon: 'free_breakfast'
+  feature:
+    # tabs: true
+
+# Customization
+extra:
+  search:
+    language: 'en, de, ru, es'
+  social:
+    - type: 'github'
+      link: 'https://github.com/jpunlay'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/jesus.punlaymulanovich'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/jesus-punlay-068098110/'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/jesuspunlay/'
