@@ -11,7 +11,7 @@
 
 <br/>
 
-<img align="right"; width="200px"; height="130px" src=" https://www.tcl.edu/wp-content/themes/ci-theme-tcl/assets/images/branding--logo-header.jpg">
+<img align="right"; width="200px"; height="230px" src=" https://s3-media2.fl.yelpcdn.com/bphoto/vzNJb-tsZ7w_LbXvd-3SiA/o.jpg">
 ## Technical College of the LowCountry (TCL)
 ** Spring 2013- Spring 2014**
 
