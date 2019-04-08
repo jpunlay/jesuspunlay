@@ -1,8 +1,8 @@
 # Education
 
-<img align="right"; width="200px" src=" http://www.beaufortchamber.org/wp-content/uploads/2018/01/USCB_Standard_Garnet-sq.jpg">
 ## University of South Caorlina-Beaufort (USCB)
 **Spring 2014- Spring 2017**
+<img  style="float:right; width:200px;" src="http://www.beaufortchamber.org/wp-content/uploads/2018/01/USCB_Standard_Garnet-sq.jpg">
 
 * Bachelor of Science in Computational Science (CSCI)
 * Concentration: Business Administration
@@ -11,9 +11,9 @@
 
 <br/>
 
-<img align="right"; width="200px"; height="230px" src=" https://s3-media2.fl.yelpcdn.com/bphoto/vzNJb-tsZ7w_LbXvd-3SiA/o.jpg">
 ## Technical College of the LowCountry (TCL)
-** Spring 2013- Spring 2014**
+**Spring 2013- Spring 2014**
+<img  style="float:right; width:200px; height: 230px;" src="https://s3-media2.fl.yelpcdn.com/bphoto/vzNJb-tsZ7w_LbXvd-3SiA/o.jpg">
 
 * Associate in Arts
 * General Education & Business Transfer Block
