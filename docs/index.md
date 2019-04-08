@@ -1,17 +1,15 @@
 # Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This site serves as a more interactive and extensive version of what my resume would be like. WIP
 
-## Commands
+## Who I am
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* 👨‍💻 Software Developer 
+* 👨‍👩‍👦‍👦  Husband and father of two 
+* 🏆 Triathlon enthusiast 
+* 📍 Raleigh, NC 
 
-## Project layout
+## TODO: ADD 1 PARAGRAGH LIFE STUFF
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+??? tip
+    Traditional resumes are worthless
