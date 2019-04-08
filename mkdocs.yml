@@ -19,6 +19,7 @@ nav:
 # Configuration
 theme:
   name: 'material'
+  favicon: 'assets/images/cup.png'
   palette:
     primary: 'blue grey'
     accent: 'amber'
