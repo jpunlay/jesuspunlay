@@ -25,7 +25,7 @@ This is a list of the techonologies I am familiar with, not ordered in any parti
     - PostgreSQL
 
 ??? tip "Cloud Environments"
-    - Amazon Web SErvices (AWS)
+    - Amazon Web Services (AWS)
     - OpenShift Origin (OSO)
     - OpenShift Enterprise (OSE)
     - Microsoft Azure
