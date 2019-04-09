@@ -44,3 +44,7 @@ This is a list of the techonologies I am familiar with, not ordered in any parti
     - Automation Testing
     - Terraform
     - Architectural Design
+
+<br/>
+<img  style="width:800px;" src="https://memegenerator.net/img/instances/75542908/software-development.jpg">
+
