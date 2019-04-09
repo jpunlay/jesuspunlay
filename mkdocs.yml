@@ -23,7 +23,7 @@ theme:
   palette:
     primary: 'blue grey'
     accent: 'amber'
-  # favicon: 'assets/images/favicon.ico'
+  favicon: '../images/cup.png'
   logo:
     icon: 'free_breakfast'
   feature:
@@ -42,7 +42,7 @@ extra:
       link: 'https://www.linkedin.com/in/jesus-punlay-068098110/'
     - type: 'instagram'
       link: 'https://www.instagram.com/jesuspunlay/'
-      
+
 markdown_extensions:
   - markdown.extensions.admonition
   - pymdownx.details

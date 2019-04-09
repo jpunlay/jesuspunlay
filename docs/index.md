@@ -12,4 +12,4 @@ This site serves as a more interactive and extensive version of what my resume w
 ## TODO: ADD 1 PARAGRAGH LIFE STUFF
 
 ??? tip
-    Traditional resumes are worthless
+    Traditional resumes are overrated

@@ -2,7 +2,7 @@
 
 ## Optum
 **June 2017 - present**
-<img style="float:right; width:200px; padding:40px 25px" src="https://pbs.twimg.com/profile_images/859143746520219648/7r3yBj4z_400x400.jpg">
+<img style="float:right; width:200px; padding:40px 25px" src="../images/optum_logo.jpg">
 
 * Technology Development Program
     1. First Rotation: FHIR data and cloud applications development
@@ -15,7 +15,7 @@
 
 ## Optum (Intern)
 **May 2016 - August 2016**
-<img style="float:right; width:200px;  padding:25px" src="https://pbs.twimg.com/profile_images/859143746520219648/7r3yBj4z_400x400.jpg">
+<img style="float:right; width:200px;  padding:25px" src="../images/optum_logo.jpg">
 
 * Helped team by managing database and executing requested queries
 * Redesigned database mapping to combine existing instances into one
