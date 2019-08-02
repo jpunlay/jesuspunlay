@@ -1,4 +1,4 @@
-# Welcome to Jesus
+# Welcome
 
 This site serves as a more interactive and extensive version of what my resume would be like. WIP
 
