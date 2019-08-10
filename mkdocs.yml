@@ -13,8 +13,8 @@ nav:
   - Home: index.md
   - Education: education.md
   - Work: work.md
-  - Hobbies: hobbies.md
   - Technologies: technologies.md
+  - Hobbies: hobbies.md
   - Projects: projects.md
 
 # Configuration
