@@ -1,15 +1,17 @@
-# Welcome to MkDocs
+# console.log("Welcome");
 
-This site serves as a more interactive and extensive version of what my resume would be like. WIP
+This site serves as a better and more extensive version of my resume.
 
-## Who I am
+## About me
 
 *  Software Developer 👨‍💻
 *  Husband and father of two 👨‍👩‍👦‍👦
 *  Triathlon enthusiast 🏆
-*  Raleigh, NC 📍
+*  Knightdale, NC 📍
 
-## TODO: ADD 1 PARAGRAGH LIFE STUFF
+## Bio
 
-??? tip
-    Traditional resumes are overrated
+Born and raised in Lima, Peru 🦙, moved to the USA after completing High School. Lived in Bluffton, South Carolina for 8 years where I graduated from the University of South Carolina - Beaufort, with a Bachelor of Science in Computational Science. Currently living in Knightdale, NC, and working at Optum as a Software Developer. 
+
+??? Thoughts
+    - Traditional resumes are overrated

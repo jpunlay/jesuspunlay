@@ -2,26 +2,30 @@
 
 This is a list of the techonologies I am familiar with, not ordered in any particular order. Expand the category to see more.
 
-??? tip "Front End"
-    - TypeScript
-    - JavaScript
-    - HTML/CSS
-    - Front End Testing
-    - Dev Tools
-    - Angular, React
-    - React Native
+??? tip "Languages"
+    - C++               3/5
+    - C#                3/5
+    - Go                3/5
+    - Groovy            3/5
+    - Java              4/5
+    - JavaScript        4/5
+    - MATLAB            2/5
+    - Python            2/5
+    - SQL               4/5
+    - TypeScript        3/5
 
-??? tip "Back End"
-    - Java
-    - C#
-    - C
-    - Matlab
-    - Back-End Testing
+??? tip "Frameworks"
+    - .Net              3/5
+    - Angular           4/5
+    - Node.js           4/5
+    - React             3/5
+    - React Native      3/5
+    - SpringBoot        4/5
 
 ??? tip "Databases"
-    - Mongo
-    - SQL
     - Elastic (ELK)
+    - MongoDB
+    - MySQL
     - PostgreSQL
 
 ??? tip "Cloud Environments"
@@ -31,20 +35,22 @@ This is a list of the techonologies I am familiar with, not ordered in any parti
     - Microsoft Azure
     - Kubernetes
     - Apache Mesos
+    - Microsoft Azure
+    - OpenShift Origin (OKD)
+    - OpenShift Enterprise (OSE)
 
-??? tip "Other Skills"
-    - Full Stack Development
-    - DevOps
-    - Git
-    - Jenkins
-    - Docker (containers)
-    - Agile Methodologies
-    - Unit Testing
-    - Integration Testing
+??? tip "Other"
+    - Architectural design and orchestration
     - Automation Testing
+    - DevOps
+    - Docker (containers)
+    - Full Stack Development
+    - Git
+    - Integration Testing
+    - Jenkins
+    - Kubernetes
+    - Scrum
+    - Unit Testing
     - Terraform
-    - Architectural Design
 
 <br/>
-<img  style="width:800px;" src="https://memegenerator.net/img/instances/75542908/software-development.jpg">
-
